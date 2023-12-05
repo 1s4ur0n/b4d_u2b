@@ -20,6 +20,8 @@ REM #                cleans up traces.                    |
 REM #                                                     |
 REM #######################################################
 
+APİ_KEY = {25A247_39273l83az46}
+
 REM Requirements:
 REM     - Windows logged in
 REM     - Internet connection
